@@ -1,7 +1,7 @@
-# <div align="right">Theo Gerwing
-### <div align="right">Phone: 204-999-9999 (home – voice mail)
-### <div align="right"> 204-888-8888 (cell - no voice mail)
-### <div align="right"> Email: fakeEmail1.myumanitoba.ca
+# Theo Gerwing
+### Phone: 204-999-9999 (home – voice mail)
+### 204-888-8888 (cell - no voice mail)
+### Email: fakeEmail1.myumanitoba.ca
 ## Education
 #### University of Manitoba  
 Faculty of Science  
